@@ -46,18 +46,25 @@ Solutions are written with clarity in mind and are intended to reflect how I rea
 ## 📂 Structure
 
 Problems are grouped by topic:
+
 arrays/
+
 strings/
+
 hash_tables/
+
 linked_lists/
+
 stacks/
+
 queues/
+
 trees/
+
 recursion/
+
 greedy-algorithms/
+
 graphs/
+
 dynamic-programming/
-
-
-Problems are grouped by topic:
-
